@@ -12,6 +12,10 @@
     width: 100%;
 }
 
+.container h2{
+    height: 120px;
+}
+
 .container h2, .favorito {
     padding: 0 1em;
 }
